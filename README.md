@@ -9,4 +9,4 @@ Ser redirecionada, após 5 perguntas respondidas, para a tela de score, onde o t
 Visualizar a página de ranking, se quiser, ao final de cada jogo.
 Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
-<a href="https://trivia-sable.vercel.app/" _blank>clique aqui e confira como ficou</a>
+<a href="https://trivia-sable.vercel.app/" target="_blank">clique aqui e confira como ficou</a>
